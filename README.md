@@ -1,1 +1,1 @@
-# Module-1-challenge
+The goal of the this challenge is to add semantic HTML elements. Semantic elemets allows other developers to understand my code better. 
